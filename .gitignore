@@ -1,0 +1,10 @@
+noop/libnoop.a
+noop/libnoop.o
+noop/libnoop.so
+noop/nooptest
+libs/
+maintest
+dows/dowstest
+dows/libdows.a
+dows/libdows.o
+dows/libdows.so
