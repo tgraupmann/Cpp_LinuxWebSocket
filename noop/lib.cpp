@@ -1,4 +1,4 @@
-// lib.cpp : Send data to a WSS WebSocket.
+// lib.cpp : Print a NOOP message
 //
 
 #include "lib.h"

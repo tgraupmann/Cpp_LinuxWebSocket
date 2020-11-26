@@ -1,4 +1,4 @@
-// main.cpp : Send data to a WSS WebSocket.
+// main.cpp : Test libnoop
 //
 
 #include "lib.h"
