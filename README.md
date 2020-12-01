@@ -19,6 +19,7 @@ $ cd ~
 $ mkdir Public
 $ cd Public
 $ git clone https://github.com/tgraupmann/libwsclient
+$ cd libwsclient
 $ ./autogen.sh
 $ ./configure && make && sudo make install
 ```
