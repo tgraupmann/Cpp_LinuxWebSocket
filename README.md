@@ -14,6 +14,8 @@ $ sudo apt-get install g++
 
 $ sudo apt-get install libtool
 
+$ sudo apt-get install libssl-dev
+
 **libwsclient**
 
 ```
