@@ -16,6 +16,8 @@ $ sudo apt-get install libtool
 
 $ sudo apt-get install libssl-dev
 
+$ sudo apt-get install build-essential gdb
+
 **libwsclient**
 
 ```
