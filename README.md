@@ -29,3 +29,17 @@ $ cd libwsclient
 $ ./autogen.sh
 $ ./configure && make && sudo make install
 ```
+
+**json-c**
+```
+$ cd ~
+$ mkdir Public
+$ cd Public
+$ git clone https://github.com/json-c/json-c
+$ mkdir json-c-build
+$ cd json-c-build
+$ cmake ../json-c
+$ make
+$ make test
+$ sudo make install
+```
