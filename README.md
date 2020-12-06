@@ -43,3 +43,7 @@ $ make
 $ make test
 $ sudo make install
 ```
+
+**hashmap**
+
+* [https://github.com/tidwall/hashmap.c](https://github.com/tidwall/hashmap.c)
