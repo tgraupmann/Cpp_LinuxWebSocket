@@ -18,6 +18,8 @@ $ sudo apt-get install libssl-dev
 
 $ sudo apt-get install build-essential gdb
 
+$ sudo apt install cmake
+
 **libwsclient**
 
 ```
